@@ -39,3 +39,10 @@ RESTful Routes
 |Update	| /blogs/:id		 |  PUT			 |     Update a particular blog, then redirect	|	    Blog.findByIdAndUpdate()
 |Destroy | /dogs/:id		 | DELETE		 |   Deletes a particular blog, then redirects	 |   Blog.findByIdAndRemove()
 --------------------------------------------------------------------------------------------------------
+
+# Screenshot of Application#
+*more can be found in the app_images folder*
+
+![alt-text](https://github.com/tkappha/RESTful-Blog/blob/master/app_images/AddCatBlog.png "Screenshot of application")
+
+
