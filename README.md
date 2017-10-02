@@ -1,4 +1,4 @@
-# H1 Blog Application #
+# Blog Application 
 
 *This application is an activity from Colt Steele's Web Developer Bootcamp, focusing on using RESTful 
 routes to create, read, update and destroy blog posts.*  
@@ -31,7 +31,7 @@ RESTful Routes
 ----------------------------------------------------------------------------------------------------
 |Name  |   Path    |  HTTP Verb 	  | Purpose									             |    Mongoose Method
 |------|:---------:|:--------------:|:------------------------------------:|:----------------------------
-|Index	|  /blogs		|	  GET			     | List all blogs								       |         Blog.find()
+|Index	:|: /blogs		:|:	  GET			     :|: List all blogs								       :|:         Blog.find()
 |New		  /blogs/new		GET			      Show new blog 								                N/A
 |Create	/blogs			    POST		      Create a new blog, then redirect			        Blog.create()
 |Show	  /blogs/:id		  GET			      Show info about one specific blog			        Blog.findById()
