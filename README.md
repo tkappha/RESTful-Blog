@@ -1,4 +1,4 @@
-# H1 Blog Application
+# H1 Blog Application #
 
 *This application is an activity from Colt Steele's Web Developer Bootcamp, focusing on using RESTful 
 routes to create, read, update and destroy blog posts.*  
@@ -6,24 +6,24 @@ routes to create, read, update and destroy blog posts.*
 --------------------
 Technologies Used:
 --------------------
-..* HTML/CSS
-..* JavaScript & EJS
-..* Mongo
+* HTML/CSS
+* JavaScript & EJS
+* Mongo
 
 -----------------
 NPM Packages
 -----------------
-..* Mongoose
-..* Express
-..* Body-Parser
-..* Method Override
-..* Express Sanitizer
+* Mongoose
+* Express
+* Body-Parser
+* Method Override
+* Express Sanitizer
 
 ---------------
 UI
 ---------------
-..* Semantic UI
-..* CSS
+* Semantic UI
+* CSS
 
 
 ----------------------------------------------------------------------------------------------------
